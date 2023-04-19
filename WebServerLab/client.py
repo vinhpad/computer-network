@@ -28,3 +28,5 @@ print(response.decode())
 
 # Close the socket
 clientSocket.close()
+
+__name__
